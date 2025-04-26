@@ -1,0 +1,19 @@
+a { 
+    color: inherit; 
+} 
+
+ul {
+    list-style-type: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+}
